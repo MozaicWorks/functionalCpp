@@ -1,0 +1,7 @@
+[
+    {
+        "command": "c++ -c -std=c++17 -o tests -I/home/alexb/work/functionalProgrammingCpp /home/alexb/work/functionalProgrammingCpp/tests.cpp",
+        "directory": "/home/alexb/work/functionalProgrammingCpp",
+        "file": "/home/alexb/work/functionalProgrammingCpp/tests.cpp"
+    }
+]
